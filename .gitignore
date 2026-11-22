@@ -1,0 +1,13 @@
+# data and outputs are not part of the repository
+*.csv
+*.npz
+*.npy
+*.keras
+*.h5
+*.jpg
+*.png
+*.pdf
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
